@@ -1,0 +1,24 @@
+# .gitignore
+
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
